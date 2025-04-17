@@ -22,18 +22,13 @@ GitHub documentation
 
 ## 📄 Documentation
 
-📥 [Click to view full project documentation (PDF)](Global_Music_Dashboard.pdf)
+📥 [Click to view full project documentation (PDF)][(Global_Music_Dashboard.pdf)](https://github.com/nithusha-bandari/Global-music-dashboard/blob/main/Global%20Music%20Streaming%20Documentation.docx)
 
 Includes:
 - Why the dataset was chosen  
 - Step-by-step chart building guide  
 - Columns/rows explanation  
-- Dashboard structure  
-- Interactivity configuration
 
-## 🖼️ Cover Image
-
-![Dashboard Preview](Cover_Image.png)
 
 ## 📂 Files in this Repository
 
