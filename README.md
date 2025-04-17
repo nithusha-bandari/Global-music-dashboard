@@ -34,9 +34,8 @@ Includes:
 
 | File | Description |
 |------|-------------|
-| `Global_Music_Dashboard.pdf` | Full documentation of the dashboard and story |
+| `Global_Music_Streaming_Documentation.docx` | Full documentation of the dashboard |
 | `Global_Music_Dashboard.twbx` | Tableau packaged workbook file |
-| `Cover_Image.png` | GitHub/social media preview image |
 | `README.md` | Project summary |
 
 ## 📬 Connect
